@@ -30,9 +30,9 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 - The ensemble machine learning model predicts the likelihood of diabetes based on the input.
 - The app displays the prediction result, indicating whether the user is likely to have diabetes or not.
 - Users can receive accurate and quick predictions for early diabetes detection.
+##   ![image](https://media.giphy.com/media/WOU0haXILlDYB2m5sH/giphy.gif?cid=790b7611e6xufvd93gj96f3mmcbfrc6d1umu8kfihead4n5k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Model
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
 ##   ![image](https://media.giphy.com/media/SnUlEy5GZQAdgngSL9/giphy.gif?cid=ecf05e47ze3qejd404utm25tcx3z45j4jkdnjaud3b82klv9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-##   ![image](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)
