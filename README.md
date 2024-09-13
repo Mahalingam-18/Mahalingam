@@ -34,3 +34,4 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 ## Model
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
+##   ![image](https://media.giphy.com/media/SnUlEy5GZQAdgngSL9/giphy.gif?cid=ecf05e47ze3qejd404utm25tcx3z45j4jkdnjaud3b82klv9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
