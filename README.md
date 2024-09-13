@@ -29,7 +29,7 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 - The ensemble machine learning model predicts the likelihood of diabetes based on the input.
 - The app displays the prediction result, indicating whether the user is likely to have diabetes or not.
 - Users can receive accurate and quick predictions for early diabetes detection.
-##   <img scr="https://media.giphy.com/media/WOU0haXILlDYB2m5sH/giphy.gif?cid=790b7611e6xufvd93gj96f3mmcbfrc6d1umu8kfihead4n5k&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=15% width=40% align="right">
+##  ![image](https://media.giphy.com/media/WOU0haXILlDYB2m5sH/giphy.gif?cid=790b7611e6xufvd93gj96f3mmcbfrc6d1umu8kfihead4n5k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Model
 
